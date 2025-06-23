@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
