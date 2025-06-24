@@ -38,10 +38,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Enumeration
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2202-sum-of-k-mirror-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 <!---LeetCode Topics End-->
