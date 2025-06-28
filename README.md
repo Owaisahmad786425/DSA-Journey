@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0392-is-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0392-is-subsequence) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Binary Search
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0392-is-subsequence) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
 |  |
