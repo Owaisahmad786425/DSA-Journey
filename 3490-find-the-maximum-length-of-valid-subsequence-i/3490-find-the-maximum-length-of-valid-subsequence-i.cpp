@@ -2,6 +2,7 @@ class Solution {
 public:
     int maximumLength(vector<int>& nums) {
         int n=nums.size();
+        //good going owais 
         int odd_count=0;
         int even_count=0;
         for(int i=0;i<n;i++){
