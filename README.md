@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0007-reverse-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3208-count-beautiful-substrings-ii) |
