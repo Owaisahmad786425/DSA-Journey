@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0459-repeated-substring-pattern) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2059-unique-length-3-palindromic-subsequences) |
