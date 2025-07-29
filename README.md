@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Dynamic Programming
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1813-maximum-erasure-value) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
