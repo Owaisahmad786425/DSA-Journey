@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0007-reverse-integer) |
+| [0564-find-the-closest-palindrome](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0564-find-the-closest-palindrome) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3208-count-beautiful-substrings-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0459-repeated-substring-pattern) |
+| [0564-find-the-closest-palindrome](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0564-find-the-closest-palindrome) |
 | [0807-custom-sort-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0807-custom-sort-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1350-remove-sub-folders-from-the-filesystem) |
