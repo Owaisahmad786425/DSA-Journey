@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0165-compare-version-numbers) |
+| [0214-shortest-palindrome](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0459-repeated-substring-pattern) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0459-repeated-substring-pattern) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
@@ -239,11 +241,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0214-shortest-palindrome) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0214-shortest-palindrome) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Tree
