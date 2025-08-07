@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0670-maximum-swap](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0670-maximum-swap) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1923-sentence-similarity-iii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1923-sentence-similarity-iii) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Sliding Window
