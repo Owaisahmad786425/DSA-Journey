@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0807-custom-sort-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0807-custom-sort-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0807-custom-sort-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0807-custom-sort-string) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0940-fruit-into-baskets) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1127-last-stone-weight](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1127-last-stone-weight) |
 | [1962-single-threaded-cpu](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1962-single-threaded-cpu) |
@@ -340,5 +345,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
