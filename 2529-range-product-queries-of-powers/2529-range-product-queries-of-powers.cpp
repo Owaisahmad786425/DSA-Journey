@@ -2,22 +2,21 @@ class Solution {
     const int MOD=1e9+7;
 public:
     vector<int> productQueries(int n, vector<vector<int>>& queries) {
-        vector<int> powers;
-        vector<int> answer;
+        vector<int> power;
         for(int i=0;i<32;i++){
             if((n&(1<<i))!=0){
-                powers.push_back(1<<i);
+             power.push_back(1<<i);
             }
         }
-
-        for(auto &query:queries){
-            int start=query[0];
-            int end=query[1];
-            long  product=1;
+        vector<int> answer;
+        for(int j=0;j<queries.size();j++){
+            int start=queries[j][0];
+            int end=queries[j][1];
+            long product=1;
             for(int i=start;i<=end;i++){
-                product=(product*powers[i])%MOD;
+               product=(product*power[i])%MOD;
             }
-          answer.push_back(product);
+            answer.push_back(product);
         }
         return answer;
     }
