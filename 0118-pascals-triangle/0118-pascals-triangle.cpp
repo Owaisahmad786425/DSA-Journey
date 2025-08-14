@@ -1,23 +1,22 @@
 class Solution {
+    vector<int> generate_row(int n){
+        long long store=1;
+        vector<int> ans;
+        ans.push_back(1);
+        for(int col=1;col<n;col++){
+            store*=(n-col);
+            store/=(col);
+            ans.push_back(store);
+        }
+        return ans;
+
+    }
 public:
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>> res;
-        res.push_back({1});
-        for(int k=1;k<numRows;k++){
-            vector<int> temp(res.back().size()+1);
-            vector<int> store;
-            store=res.back();
-            temp[0]=1;
-            temp.back()=1;
-            int i=0,j=1;
-            int idx=1;
-             while(j<store.size()){
-                temp[idx]=store[i]+store[j];
-                i++;
-                j++;
-                idx++;
-             }
-             res.push_back(temp);
+        for(int i=0;i<numRows;i++){
+            vector<int> temp=generate_row(i+1);
+        res.push_back(temp);
         }
         return res;
     }
