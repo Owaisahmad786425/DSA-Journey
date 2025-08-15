@@ -15,13 +15,13 @@ public:
    }
     int mini=1e9;
     for(int i=break_point+1;i<n;i++){
-        if(nums[break_point]<nums[i] && mini>nums[i]){
+        if(nums[break_point]<nums[i] && mini>=nums[i]){
             swap_index=i;
             mini=nums[i];
         }
     }
     swap(nums[break_point],nums[swap_index]);
-sort(nums.begin()+break_point+1,nums.end());
+reverse(nums.begin()+break_point+1,nums.end());
 
     }
 };
