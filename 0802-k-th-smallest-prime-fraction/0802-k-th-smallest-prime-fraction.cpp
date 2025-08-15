@@ -11,12 +11,12 @@ public:
               min_heap.push({fraction,{arr[i],arr[curr_last]}});
            }
            iterations--;
+           if(iterations==0) return {min_heap.top().second.first,min_heap.top().second.second};
+
+           min_heap.pop();
            curr_last--;
         }
-        while(k>1){
-            min_heap.pop();
-            k--;
-        }
-        return {min_heap.top().second.first,min_heap.top().second.second};
+      return {};
+    
     }
 };
