@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0342-power-of-four) |
 | [0564-find-the-closest-palindrome](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0564-find-the-closest-palindrome) |
 | [0670-maximum-swap](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0826-soup-servings) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
