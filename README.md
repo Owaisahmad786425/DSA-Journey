@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0502-ipo](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0778-reorganize-string) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0778-reorganize-string) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0502-ipo](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0621-task-scheduler) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0778-reorganize-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
