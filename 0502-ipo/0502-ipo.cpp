@@ -12,25 +12,18 @@ public:
         }
         sort(mapping.begin(),mapping.end());
         int i=0;
-        while(i<n){
-            if(w>=mapping[i].first){
+        while(k>0){
+            while(i<n && w>=mapping[i].first){
                 max_heap.push({mapping[i].second,mapping[i].first});
                 i++;
-              continue;
             }
-            while(k>0 && !max_heap.empty() && w<mapping[i].first){
-                w+=max_heap.top().first;
-                max_heap.pop();
-                k--;
-            }
-            if(w<mapping[i].first) break;
-        }
-      
-         while(k>0 && !max_heap.empty()){
+            if(max_heap.empty()) break;
+
             w+=max_heap.top().first;
-                max_heap.pop();
-                k--;
-         }
+            k--;
+            max_heap.pop();
+        }
+        
 return w;
     }
 };
