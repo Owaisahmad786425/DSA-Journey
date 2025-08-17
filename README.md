@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0807-custom-sort-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0807-custom-sort-string) |
 | [0900-reordered-power-of-2](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0900-reordered-power-of-2) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1962-single-threaded-cpu](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1962-single-threaded-cpu) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0952-word-subsets) |
 | [1127-last-stone-weight](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1127-last-stone-weight) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1923-sentence-similarity-iii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1923-sentence-similarity-iii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2529-range-product-queries-of-powers) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3208-count-beautiful-substrings-ii) |
