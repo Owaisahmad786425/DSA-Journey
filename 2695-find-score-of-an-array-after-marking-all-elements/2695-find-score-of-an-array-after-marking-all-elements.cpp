@@ -7,7 +7,7 @@ public:
         for(int i=0;i<n;i++){
             min_heap.push({nums[i],i});
         }
-        int res=0;
+        long long res=0;
         while(!min_heap.empty()){
             pair<int,int> store=min_heap.top();
             min_heap.pop();
