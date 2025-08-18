@@ -1,11 +1,9 @@
 class Solution {
-    static bool comp(vector<int> v1,vector<int> v2){
-        return v1[0]<v2[0];
-    }
+
 public:
 
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(intervals.begin(),intervals.end(),comp);
+        sort(intervals.begin(),intervals.end());
         int n=intervals.size();
          int l=0;
          int i=0;
