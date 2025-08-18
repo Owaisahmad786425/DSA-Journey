@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1813-maximum-erasure-value) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3208-count-beautiful-substrings-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3210-count-beautiful-substrings-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2636-maximum-subsequence-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2636-maximum-subsequence-score) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Array
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2636-maximum-subsequence-score) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2636-maximum-subsequence-score) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
