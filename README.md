@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0392-is-subsequence) |
