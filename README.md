@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0392-is-subsequence) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
