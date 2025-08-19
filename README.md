@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0056-merge-intervals) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -377,12 +380,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 ## Number Theory
 |  |
