@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0952-word-subsets) |
 | [1127-last-stone-weight](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1127-last-stone-weight) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1813-maximum-erasure-value) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
@@ -485,4 +487,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
