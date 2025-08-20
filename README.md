@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Array
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3790-fruits-into-baskets-ii) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Sliding Window
 |  |
 | ------- |
