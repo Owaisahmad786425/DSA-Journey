@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1923-sentence-similarity-iii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1923-sentence-similarity-iii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1628-count-submatrices-with-all-ones) |
 ## Number Theory
 |  |
 | ------- |
@@ -488,4 +492,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
