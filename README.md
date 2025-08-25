@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0498-diagonal-traverse](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0621-task-scheduler) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0498-diagonal-traverse) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
