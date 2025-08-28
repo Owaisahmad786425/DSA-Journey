@@ -1,47 +1,29 @@
 class Solution {
 public:
     vector<vector<int>> sortMatrix(vector<vector<int>>& grid) {
+        unordered_map<int,vector<int>> mp;
         int n=grid.size();
         for(int i=0;i<n;i++){
-            int row=i;
-            int col=0;
-            vector<int> store;
-            while(row<n && col<n){
-              store.push_back(grid[row][col]);
-              row++;
-              col++;
-            }
-            sort(store.begin(),store.end(),greater<int>());
-            row=i;
-            col=0;
-            int index=0;
-            while(row<n && col<n){
-                grid[row][col]=store[index];
-                row++;
-                col++;
-                index++;
-            }
+        for(int j=0;j<n;j++){
+            int digonal=i-j;
+            mp[digonal].push_back(grid[i][j]);
         }
-        for(int j=1;j<n;j++){
-            int row=0;
-            int col=j;
-              vector<int> store;
-            while(row<n && col<n){
-              store.push_back(grid[row][col]);
-              row++;
-              col++;
-            }
-            sort(store.begin(),store.end());
-            row=0;
-            col=j;
-            int index=0;
-            while(row<n && col<n){
-                grid[row][col]=store[index];
-                row++;
-                col++;
-                index++;
+        }
+for(auto &it:mp){
+    if(it.first>=0)sort(it.second.begin(),it.second.end(),greater<int>());
+    else{
+        sort(it.second.begin(),it.second.end());
+    }
+    reverse(it.second.begin(),it.second.end());
+}
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                int digonal=i-j;
+                grid[i][j]=mp[digonal].back();
+                mp[digonal].pop_back();
             }
         }
         return grid;
+
     }
 };
