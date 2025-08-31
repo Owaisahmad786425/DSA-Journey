@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0342-power-of-four) |
@@ -521,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
