@@ -1,35 +1,31 @@
 class Solution {
 public:
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
-       
-        auto calculateGain = [](int passes, int totalStudents) {
-            return (double)(passes + 1) / (totalStudents + 1) -
-                   (double)passes / totalStudents;
-        };
-
-        priority_queue<pair<double, pair<int, int>>> maxHeap;
-        for (const auto& singleClass : classes) {
-            maxHeap.push({calculateGain(singleClass[0], singleClass[1]),
-                          {singleClass[0], singleClass[1]}});
+        int n=classes.size();
+        priority_queue<pair<double,int>> max_heap;
+        for(int i=0;i<n;i++){
+            double current_PR=(double)classes[i][0]/classes[i][1];
+            double new_PR=(double)(classes[i][0]+1)/(classes[i][1]+1);
+            double delta=new_PR-current_PR;
+            max_heap.push({delta,i});
         }
+        while(extraStudents--){
+            auto curr=max_heap.top();
+            max_heap.pop();
+            double delta=curr.first;
+            int idx=curr.second;
+            classes[idx][0]++;
+            classes[idx][1]++;
+              double current_PR=(double)classes[idx][0]/classes[idx][1];
+            double new_PR=(double)(classes[idx][0]+1)/(classes[idx][1]+1);
+         delta=new_PR-current_PR;
+            max_heap.push({delta,idx});
 
-      
-        while (extraStudents--) {
-            auto [currentGain, classInfo] = maxHeap.top();
-            maxHeap.pop();
-            int passes = classInfo.first;
-            int totalStudents = classInfo.second;
-            maxHeap.push({calculateGain(passes + 1, totalStudents + 1),
-                          {passes + 1, totalStudents + 1}});
         }
-
-        double totalPassRatio = 0;
-        while (!maxHeap.empty()) {
-            auto [_, classInfo] = maxHeap.top();
-            maxHeap.pop();
-            totalPassRatio += (double)classInfo.first / classInfo.second;
+        double result=0.0;
+        for(int i=0;i<n;i++){
+            result+=(double)classes[i][0]/classes[i][1];
         }
-
-        return totalPassRatio / classes.size();
+        return result/n;
     }
 };
