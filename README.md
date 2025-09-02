@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0049-group-anagrams) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0165-compare-version-numbers) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
