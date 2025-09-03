@@ -1,13 +1,8 @@
 class Solution {
-    static bool comp(vector<int> vec1,vector<int> vec2){
-        if(vec1[0]==vec2[0]){
-            return vec1[1]>vec2[1];
-        }
-        return vec1[0]<vec2[0];
-    }
+
 public:
     int numberOfPairs(vector<vector<int>>& points) {
-        sort(points.begin(),points.end(),comp);
+        
         int res=0;
         for(int i=0;i<points.size();i++){
             for(int j=0;j<points.size();j++){
