@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0459-repeated-substring-pattern) |
 | [0564-find-the-closest-palindrome](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0807-custom-sort-string) |
 | [0952-word-subsets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0952-word-subsets) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0867-new-21-game](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0867-new-21-game) |
