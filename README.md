@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3830-find-closest-person) |
 ## String
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Recursion
 |  |
 | ------- |
