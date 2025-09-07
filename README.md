@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0547-number-of-provinces) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -584,9 +585,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
