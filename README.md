@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0239-sliding-window-maximum) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Queue
 |  |
 | ------- |
