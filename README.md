@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1006-vowel-spellchecker) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1813-maximum-erasure-value](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0807-custom-sort-string) |
 | [0952-word-subsets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1006-vowel-spellchecker) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1006-vowel-spellchecker) |
 | [1127-last-stone-weight](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1127-last-stone-weight) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1402-count-square-submatrices-with-all-ones) |
