@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0048-rotate-image) |
+| [0224-basic-calculator](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0342-power-of-four) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0165-compare-version-numbers) |
 | [0212-word-search-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0224-basic-calculator](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0342-power-of-four) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0937-online-stock-span) |
