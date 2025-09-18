@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0456-132-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0456-132-pattern) |
 | [0498-diagonal-traverse](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0456-132-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0456-132-pattern) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0937-online-stock-span) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0943-sum-of-subarray-minimums) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0456-132-pattern) |
 | [2429-design-a-food-rating-system](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3791-fruits-into-baskets-iii) |
