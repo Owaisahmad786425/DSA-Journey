@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1923-sentence-similarity-iii) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1552-build-an-array-with-stack-operations) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1818-maximum-score-from-removing-substrings) |
