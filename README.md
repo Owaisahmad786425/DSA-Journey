@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0459-repeated-substring-pattern) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0739-daily-temperatures) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0937-online-stock-span) |
