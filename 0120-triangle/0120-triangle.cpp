@@ -1,30 +1,21 @@
 class Solution {
-private:
-int fun(int index1,int index2,vector<vector<int>> &triangle,int size,  vector<vector<int>> &dp){
-    if(index2==size){
-        return 0;
-    }
-    if(dp[index2][index1]!=-1){
-        return dp[index2][index1];
-    }
-    int s1;
-    int s2;
-            s1=triangle[index2][index1]+fun(index1,index2+1,triangle,size,dp);
-            
-
-        s2=triangle[index2][index1]+fun(index1+1,index2+1,triangle,size,dp);
-
-return dp[index2][index1]=min(s1,s2);
-   
-}
-
 public:
     int minimumTotal(vector<vector<int>>& triangle) {
-        int m=triangle.size();
-      vector<vector<int>> dp(m, vector<int>(m, -1));
+        int n = triangle.size();
+        vector<vector<int>> dp(n, vector<int>(n, 0));
+
+    
+        for (int j = 0; j < n; j++) {
+            dp[n-1][j] = triangle[n-1][j];
+        }
+
         
-  
-        int res=fun(0,0,triangle,m,dp);
-        return res;
+        for (int i = n-2; i >= 0; i--) {
+            for (int j = 0; j <= i; j++) {
+                dp[i][j] = triangle[i][j] + min(dp[i+1][j], dp[i+1][j+1]);
+            }
+        }
+
+        return dp[0][0]; 
     }
 };
