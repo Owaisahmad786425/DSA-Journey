@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0212-word-search-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0212-word-search-ii) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0826-soup-servings](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0826-soup-servings) |
