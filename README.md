@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0212-word-search-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0238-product-of-array-except-self) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0456-132-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0456-132-pattern) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
