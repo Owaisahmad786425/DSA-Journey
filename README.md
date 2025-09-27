@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0900-reordered-power-of-2) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0830-largest-triangle-area](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0943-sum-of-subarray-minimums) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Queue
