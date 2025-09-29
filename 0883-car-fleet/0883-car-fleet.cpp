@@ -18,9 +18,7 @@ public:
                 st.push(steps);
                 continue;
             }
-            else if(st.top()>=steps){
-            }
-            else{
+            else if(st.top()<steps){
                 st.push(steps);
             }
            }
