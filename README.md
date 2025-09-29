@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0778-reorganize-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0807-custom-sort-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0807-custom-sort-string) |
+| [0883-car-fleet](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0830-largest-triangle-area](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0830-largest-triangle-area) |
+| [0883-car-fleet](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0883-car-fleet) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0943-sum-of-subarray-minimums) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0943-sum-of-subarray-minimums) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1628-count-submatrices-with-all-ones) |
