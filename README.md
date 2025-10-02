@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3336-water-bottles-ii) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2846-robot-collisions) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
