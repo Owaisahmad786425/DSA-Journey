@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0407-trapping-rain-water-ii) |
 | [0456-132-pattern](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0456-132-pattern) |
 | [0498-diagonal-traverse](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0502-ipo) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0621-task-scheduler) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0212-word-search-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1628-count-submatrices-with-all-ones) |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0207-course-schedule) |
+| [0407-trapping-rain-water-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
