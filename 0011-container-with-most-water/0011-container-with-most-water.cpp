@@ -6,7 +6,7 @@ public:
         int res=0;
         while(low<=high){
             res=max(res,(min(height[low],height[high])*(high-low)));
-            if(height[low]<=height[high]) low++;
+            if(height[low]<height[high]) low++;
             else{
                 high--;
             }
