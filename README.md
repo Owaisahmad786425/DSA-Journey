@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0830-largest-triangle-area](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0830-largest-triangle-area) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0611-valid-triangle-number) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
