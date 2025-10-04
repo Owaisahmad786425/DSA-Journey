@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1962-single-threaded-cpu) |
 | [2023-design-movie-rental-system](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2023-design-movie-rental-system) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0547-number-of-provinces) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
 |  |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1628-count-submatrices-with-all-ones) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2101-last-day-where-you-can-still-cross) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3797-design-spreadsheet) |
@@ -733,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0547-number-of-provinces) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Linked List
 |  |
 | ------- |
@@ -759,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0207-course-schedule) |
 | [0407-trapping-rain-water-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0547-number-of-provinces) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Graph
 |  |
 | ------- |
