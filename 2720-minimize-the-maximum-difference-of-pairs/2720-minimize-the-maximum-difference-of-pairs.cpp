@@ -9,21 +9,20 @@ public:
         int res;
         while(l<=r){
             int mid=(l+r)/2;
-            priority_queue<int> max_heap;
             int i=n-1;
+            int count=0;
             while(i>0){
                if(abs(nums[i]-nums[i-1])<=mid) {
-                max_heap.push(abs(nums[i]-nums[i-1]));
+                count++;
                 i-=2;
                }
                else i--;
             }
 
-            if(max_heap.size()>=p && max_heap.top()==mid){
+            if(count>=p){
                 res=mid;
                 r=mid-1;
             }
-            else if(max_heap.size()>=p && max_heap.top()!=mid) r=mid-1;
             else l=mid+1;
         }
         return res;
