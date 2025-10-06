@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2636-maximum-subsequence-score) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2636-maximum-subsequence-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2636-maximum-subsequence-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2846-robot-collisions](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2846-robot-collisions) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2636-maximum-subsequence-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2846-robot-collisions](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2846-robot-collisions) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2530-minimize-maximum-of-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2530-minimize-maximum-of-array) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
