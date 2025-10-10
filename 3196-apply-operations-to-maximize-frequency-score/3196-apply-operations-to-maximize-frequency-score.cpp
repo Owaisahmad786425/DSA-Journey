@@ -36,12 +36,7 @@ public:
         int n=nums.size();
         int min_score=1;
         int max_score=n;
-        // unordered_map<int,int> mp;
-        //   int res1=-1e9;
-        // for(auto it:nums){
-        //   mp[it]++;
-        //   res1=max(res1,mp[it]);
-        // }
+       
         sort(nums.begin(),nums.end());
         vector<long long> prefix(n);
         prefix[0]=nums[0];
