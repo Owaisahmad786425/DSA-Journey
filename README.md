@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3678-design-task-manager](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3678-design-task-manager) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Array
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3195-separate-black-and-white-balls) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
 | ------- |
@@ -449,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3827-implement-router) |
@@ -480,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2530-minimize-maximum-of-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3618-find-the-original-typed-string-ii) |
