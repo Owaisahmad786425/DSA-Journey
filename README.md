@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2294-minimum-time-to-complete-trips) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-last-day-where-you-can-still-cross](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2294-minimum-time-to-complete-trips) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
