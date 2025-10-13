@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2636-maximum-subsequence-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2636-maximum-subsequence-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2846-robot-collisions](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2846-robot-collisions) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2636-maximum-subsequence-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2846-robot-collisions](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2846-robot-collisions) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3195-separate-black-and-white-balls) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3196-apply-operations-to-maximize-frequency-score) |
