@@ -6,12 +6,8 @@ class Solution {
         if(nums[i]<=val) continue;
 
         int store=nums[i]-val;
-        if(store%val!=0){
-            op+=(1+(store/val));
-        }
-        else{
-            op+=(store/val);
-        }
+        if(store%val!=0) op+=(1+(store/val));
+        else op+=(store/val);
     }
     if(op<=maxOperations) return true;
 
