@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1923-sentence-similarity-iii) |
 | [1962-single-threaded-cpu](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1962-single-threaded-cpu) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2101-last-day-where-you-can-still-cross) |
