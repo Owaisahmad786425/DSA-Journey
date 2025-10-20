@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3762-maximize-the-minimum-game-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3762-maximize-the-minimum-game-score) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3762-maximize-the-minimum-game-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3762-maximize-the-minimum-game-score) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3790-fruits-into-baskets-ii) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3762-maximize-the-minimum-game-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3762-maximize-the-minimum-game-score) |
 | [3790-fruits-into-baskets-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3827-implement-router) |
