@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Array
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3762-maximize-the-minimum-game-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3762-maximize-the-minimum-game-score) |
 | [3790-fruits-into-baskets-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3791-fruits-into-baskets-iii) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -631,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3210-count-beautiful-substrings-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3210-count-beautiful-substrings-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3618-find-the-original-typed-string-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Bit Manipulation
 |  |
