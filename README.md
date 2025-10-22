@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2636-maximum-subsequence-score) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2665-minimum-time-to-repair-cars) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2914-find-the-safest-path-in-a-grid) |
