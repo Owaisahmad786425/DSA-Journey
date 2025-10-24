@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2429-design-a-food-rating-system](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2429-design-a-food-rating-system) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1448-maximum-69-number) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0900-reordered-power-of-2) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3210-count-beautiful-substrings-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3210-count-beautiful-substrings-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String Matching
 |  |
 | ------- |
