@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0778-reorganize-string) |
 | [0853-most-profit-assigning-work](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0853-most-profit-assigning-work) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0985-bag-of-tokens](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1612-avoid-flood-in-the-city) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0853-most-profit-assigning-work) |
 | [0883-car-fleet](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0900-reordered-power-of-2) |
+| [0985-bag-of-tokens](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0952-word-subsets) |
+| [0985-bag-of-tokens](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0985-bag-of-tokens) |
 | [1006-vowel-spellchecker](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0853-most-profit-assigning-work) |
+| [0985-bag-of-tokens](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0985-bag-of-tokens) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1923-sentence-similarity-iii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1923-sentence-similarity-iii) |
