@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1018-largest-perimeter-triangle) |
+| [1033-broken-calculator](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1033-broken-calculator) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1448-maximum-69-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1018-largest-perimeter-triangle) |
+| [1033-broken-calculator](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1033-broken-calculator) |
 | [1448-maximum-69-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
