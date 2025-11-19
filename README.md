@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2429-design-a-food-rating-system](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2429-design-a-food-rating-system) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2294-minimum-time-to-complete-trips) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1552-build-an-array-with-stack-operations) |
 | [2169-simple-bank-system](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2470-removing-stars-from-a-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2470-removing-stars-from-a-string) |
