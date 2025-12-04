@@ -2,23 +2,34 @@ class Solution {
 public:
     int candy(vector<int>& ratings) {
         int n=ratings.size();
-        vector<int> store(n,1);
-        //left to right traversal 
-        for(int i=0;i<n-1;i++){
-            if(ratings[i]<ratings[i+1] && store[i+1]<=store[i]){
-                store[i+1]=store[i]+1;
-            }
+        int res=n;
+        int i=1;
+        while(i<n){
+       if(ratings[i]==ratings[i-1]){
+        i++;
+        continue;
+       }
+       int peak=0;
+       //increasing slope chalayega owais
+       while(ratings[i]>ratings[i-1]){
+        peak++;
+        res+=peak;
+        i++;
+        if(i==n) return res;
+       }
+int dip=0;
+//decreasing slope hai owais
+while(ratings[i]<ratings[i-1]){
+    dip++;
+    res+=dip;
+    i++;
+    if(i==n){
+res-=min(peak,dip);
+return res;
+    }
+}
+  res-=min(peak,dip);
         }
-        //right to left traversal
-         for(int i=n-1;i>0;i--){
-            if(ratings[i]<ratings[i-1] && store[i-1]<=store[i]){
-                store[i-1]=store[i]+1;
-            }
-        }
-        int ans=0;
-        for(int i=0;i<n;i++){
-            ans+=store[i];
-        }
-        return ans;
+        return res;
     }
 };
