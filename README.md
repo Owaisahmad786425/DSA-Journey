@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2211-count-collisions-on-a-road](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1552-build-an-array-with-stack-operations) |
 | [2169-simple-bank-system](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2211-count-collisions-on-a-road](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2470-removing-stars-from-a-string) |
