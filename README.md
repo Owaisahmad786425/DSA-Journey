@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3336-water-bottles-ii) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3623-count-number-of-trapezoids-i) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3356-shortest-uncommon-substring-in-an-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3356-shortest-uncommon-substring-in-an-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3208-count-beautiful-substrings-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3208-count-beautiful-substrings-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3210-count-beautiful-substrings-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
