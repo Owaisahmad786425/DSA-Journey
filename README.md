@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1917-maximum-average-pass-ratio) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1962-single-threaded-cpu](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1962-single-threaded-cpu) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1917-maximum-average-pass-ratio) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1923-sentence-similarity-iii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1923-sentence-similarity-iii) |
 | [1962-single-threaded-cpu](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1962-single-threaded-cpu) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2000-minimum-speed-to-arrive-on-time) |
