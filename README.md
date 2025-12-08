@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1813-maximum-erasure-value](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0985-bag-of-tokens) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1923-sentence-similarity-iii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/2211-count-collisions-on-a-road) |
@@ -803,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/0943-sum-of-subarray-minimums) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Number Theory
 |  |
 | ------- |
