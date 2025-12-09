@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3583-count-special-triplets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3623-count-number-of-trapezoids-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3583-count-special-triplets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3583-count-special-triplets) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
 |  |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3583-count-special-triplets](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Owaisahmad786425/DSA-Journey/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
